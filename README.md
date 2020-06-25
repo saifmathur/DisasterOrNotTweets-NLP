@@ -1,5 +1,4 @@
 Each sample in the train and test set has the following information:
-
     The text of a tweet
     A keyword from that tweet (although this may be blank!)
     The location the tweet was sent from (may also be blank)
