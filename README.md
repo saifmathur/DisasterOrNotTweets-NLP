@@ -1,4 +1,5 @@
 Each sample in the train and test set has the following information:
+    
     The text of a tweet
     A keyword from that tweet (although this may be blank!)
     The location the tweet was sent from (may also be blank)
@@ -6,10 +7,12 @@ Each sample in the train and test set has the following information:
     You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
 
 Files
+    
     train.csv - the training set
     test.csv - the test set
 
 Columns
+    
     id - a unique identifier for each tweet
     text - the text of the tweet
     location - the location the tweet was sent from (may be blank)
